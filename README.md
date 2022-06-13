@@ -3,7 +3,7 @@
 
 
 ### Databases
-- teat ![PostgreSQL] (https://www.logo.wine/a/logo/PostgreSQL/PostgreSQL-Logo.wine.svg):
+- teat ![PostgreSQL](https://www.logo.wine/a/logo/PostgreSQL/PostgreSQL-Logo.wine.svg):
    - Documentation:
       - [ru](https://postgrespro.ru/docs/postgresql)
       - [en
