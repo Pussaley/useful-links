@@ -4,14 +4,15 @@
 
 ### Databases information
 * PostgreSQL:
+   
+   Documentation:
+
+*[ru](https://postgrespro.ru/docs/postgresql)
+
+*[en
+
 
    [Download
-   
-Documentation:
-
-..*[ru](https://postgrespro.ru/docs/postgresql)
-
-..*[en
 
 ***
 
