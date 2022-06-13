@@ -1,5 +1,5 @@
-# useful-links
-My list of useful links for my purposes.
+# Useful links
+>My list of useful links for my purposes.
 
 
 ### Databases information
