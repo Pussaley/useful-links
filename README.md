@@ -5,17 +5,16 @@
 ### Databases information
 * PostgreSQL:
    
-   Documentation:
+      Documentation:
 
-* [ru](https://postgrespro.ru/docs/postgresql), 
-* [en
+         [ru](https://postgrespro.ru/docs/postgresql), [en
 
 
    [Download
 
 ***
 
-1. pgAdmin
+* pgAdmin
 
 
    [Windows 7](https://www.postgresql.org/ftp/pgadmin/pgadmin4/v4.30/windows/)
