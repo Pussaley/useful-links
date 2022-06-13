@@ -12,7 +12,7 @@ PostgreSQL:
 1. pgAdmin
 
 
-   Windows 7 https://www.postgresql.org/ftp/pgadmin/pgadmin4/v4.30/windows/
+   [Windows 7](https://www.postgresql.org/ftp/pgadmin/pgadmin4/v4.30/windows/)
 
 ## Collections
 [Soft-, Weak-, Phantom-, Strong Reference](https://habr.com/ru/post/169883/)
