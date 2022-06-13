@@ -3,7 +3,7 @@
 
 
 ### Databases
-- PostgreSQL ![PostgreSQL logo](https://www.logo.wine/a/logo/PostgreSQL/PostgreSQL-Logo.wine.svg):
+- PostgreSQL:
    - Documentation:
       - [ru](https://postgrespro.ru/docs/postgresql)
       - [en
