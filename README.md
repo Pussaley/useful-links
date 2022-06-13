@@ -3,7 +3,7 @@
 
 
 ### Databases information
-PostgreSQL:
+* PostgreSQL:
    [Download
 Documentation:
    [ru](https://postgrespro.ru/docs/postgresql)
