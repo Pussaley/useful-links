@@ -5,7 +5,7 @@ My list of useful links for my purposes.
 ### Databases information
 PostgreSQL:
 
-   ru: [https://postgrespro.ru/docs/postgresql]
+   [ru](https://postgrespro.ru/docs/postgresql)
    Download: 
 
 
