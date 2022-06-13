@@ -5,13 +5,8 @@
 ### Databases information
 - PostgreSQL:
    - Documentation:
-      - test
+      - [ru](https://postgrespro.ru/docs/postgresql)
 
-
-
-   
-   
-   ..* [ru](https://postgrespro.ru/docs/postgresql)
 
 
    [Download
