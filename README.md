@@ -12,6 +12,9 @@
 
 * pgAdmin
    * [Windows 7](https://www.postgresql.org/ftp/pgadmin/pgadmin4/v4.30/windows/)
+   * [Windows 8
+   * [Windows 10
+   * [Linux
    
 ***
 
