@@ -4,11 +4,9 @@ My list of useful links for my purposes.
 
 ### Databases information
 PostgreSQL:
-
+Documentation:
    [ru](https://postgrespro.ru/docs/postgresql)
-   
-   
-   Download: 
+   [us]()
 ***
 
 1. pgAdmin
