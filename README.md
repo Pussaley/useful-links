@@ -7,7 +7,7 @@
    
       Documentation:
 
-         [ru](https://postgrespro.ru/docs/postgresql), [en
+         [ru](https://postgrespro.ru/docs/postgresql)
 
 
    [Download
