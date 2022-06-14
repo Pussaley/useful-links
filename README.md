@@ -29,5 +29,5 @@
 
 ## Utilities
 
-[Rufus Download](https://windowsbit.net/programmy-dlya-windows/38-rufus-zagruzochnaya-fleshka-windows.html)
->Загрузочная флешка Windows - программа Rufus (Руфус)
+
+>[Загрузочная флешка Windows - программа Rufus (Руфус)](https://windowsbit.net/programmy-dlya-windows/38-rufus-zagruzochnaya-fleshka-windows.html)
