@@ -30,5 +30,5 @@
 
 ## My PC
 ***
--Processor - [FX-4300](https://www.amd.com/ru/products/cpu/fx-4300) </BR>
--Graphics - [AMD Radeon R7 200 Series](https://amd.drivers-download.net/video/amd-radeon-r7-200-series/PCI-VEN-1002-DEV-6610-REV-00)
+- Processor - [FX-4300](https://www.amd.com/ru/products/cpu/fx-4300) </BR>
+- Graphics - [AMD Radeon R7 200 Series](https://amd.drivers-download.net/video/amd-radeon-r7-200-series/PCI-VEN-1002-DEV-6610-REV-00)
