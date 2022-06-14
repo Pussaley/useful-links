@@ -29,5 +29,8 @@
 
 ## Utilities
 
+>[Загрузочная флешка Windows - программа Rufus (Руфус)][1]
+>[Виндовс 10 Compact и Full 64 bit 21H1 образ от Флибустьер](https://windowsbit.net/windows-10-64bit-sborki/352-vindovs-10-compact-i-full-64-bit-21h1-obraz-ot-flibuster.html)
 
->[Загрузочная флешка Windows - программа Rufus (Руфус)](https://windowsbit.net/programmy-dlya-windows/38-rufus-zagruzochnaya-fleshka-windows.html)
+
+[1](https://windowsbit.net/programmy-dlya-windows/38-rufus-zagruzochnaya-fleshka-windows.html)
