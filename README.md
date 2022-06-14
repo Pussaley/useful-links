@@ -29,7 +29,7 @@
 
 ## Utilities
 
->[Загрузочная флешка Windows - программа Rufus (Руфус)][rufus]
+>[Загрузочная флешка Windows - программа Rufus (Руфус)][rufus] <\br>
 >[Виндовс 10 Compact и Full 64 bit 21H1 образ от Флибустьер][win10]
 
 
