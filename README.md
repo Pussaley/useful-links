@@ -7,7 +7,7 @@
    - Documentation:
       - [ru](https://postgrespro.ru/docs/postgresql)
       - [en](https://www.postgresql.org/docs/)
-   - [Download
+   - [Download](https://www.postgresql.org/download/)
 ***
 * pgAdmin
    * [Windows 7](https://www.postgresql.org/ftp/pgadmin/pgadmin4/v4.30/windows/)
