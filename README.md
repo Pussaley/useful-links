@@ -6,7 +6,7 @@
 - PostgreSQL:
    - Documentation:
       - [ru](https://postgrespro.ru/docs/postgresql)
-      - [en
+      - [en](https://www.postgresql.org/docs/)
    - [Download
 ***
 * pgAdmin
